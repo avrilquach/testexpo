@@ -22,6 +22,8 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "org.reactjs.native.example.intecfruits",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     }
   }
